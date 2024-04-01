@@ -1,4 +1,4 @@
 const config={
-    apiUrl:"http://localhost:5152"
+    apiUrl:"https://todoapi-7ryr.onrender.com"
 };
 export default config;
